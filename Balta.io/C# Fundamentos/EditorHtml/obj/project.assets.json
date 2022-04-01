@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\EditorHtml\\EditorHtml.csproj",
+      "projectUniqueName": "D:\\Cursos\\C#\\Balta.io\\C# Fundamentos\\EditorHtml\\EditorHtml.csproj",
       "projectName": "EditorHtml",
-      "projectPath": "D:\\dev\\EditorHtml\\EditorHtml.csproj",
+      "projectPath": "D:\\Cursos\\C#\\Balta.io\\C# Fundamentos\\EditorHtml\\EditorHtml.csproj",
       "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\EditorHtml\\obj\\",
+      "outputPath": "D:\\Cursos\\C#\\Balta.io\\C# Fundamentos\\EditorHtml\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

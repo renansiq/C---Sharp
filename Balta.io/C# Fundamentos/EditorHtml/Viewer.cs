@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
- public class Viewer
+public class Viewer
 {
     public static void Show(string text)
     {

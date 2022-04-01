@@ -13,3 +13,18 @@ D:\dev\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
 D:\dev\TextEditor\obj\Debug\net6.0\TextEditor.pdb
 D:\dev\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
 D:\dev\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\bin\Debug\net6.0\TextEditor.exe
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\bin\Debug\net6.0\TextEditor.dll
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.dll
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+D:\Cursos\C#\Balta.io\C# Fundamentos\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
