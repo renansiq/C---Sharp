@@ -1,0 +1,15 @@
+D:\dev\Moedas\bin\Debug\net6.0\Moedas.exe
+D:\dev\Moedas\bin\Debug\net6.0\Moedas.deps.json
+D:\dev\Moedas\bin\Debug\net6.0\Moedas.runtimeconfig.json
+D:\dev\Moedas\bin\Debug\net6.0\Moedas.dll
+D:\dev\Moedas\bin\Debug\net6.0\Moedas.pdb
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.csproj.AssemblyReference.cache
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.AssemblyInfoInputs.cache
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.AssemblyInfo.cs
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.csproj.CoreCompileInputs.cache
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.dll
+D:\dev\Moedas\obj\Debug\net6.0\refint\Moedas.dll
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.pdb
+D:\dev\Moedas\obj\Debug\net6.0\Moedas.genruntimeconfig.cache
+D:\dev\Moedas\obj\Debug\net6.0\ref\Moedas.dll

@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Menu();
+
 static void Menu()
 {
     while (true)

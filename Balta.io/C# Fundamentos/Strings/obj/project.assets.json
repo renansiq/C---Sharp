@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\Strings\\Strings.csproj",
+      "projectUniqueName": "D:\\Cursos\\C#\\Balta.io\\C# Fundamentos\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "D:\\dev\\Strings\\Strings.csproj",
+      "projectPath": "D:\\Cursos\\C#\\Balta.io\\C# Fundamentos\\Strings\\Strings.csproj",
       "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\Strings\\obj\\",
+      "outputPath": "D:\\Cursos\\C#\\Balta.io\\C# Fundamentos\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
