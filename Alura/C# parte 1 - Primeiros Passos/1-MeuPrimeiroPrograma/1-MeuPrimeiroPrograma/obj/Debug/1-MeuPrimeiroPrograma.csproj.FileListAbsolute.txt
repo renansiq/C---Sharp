@@ -1,0 +1,8 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\bin\Debug\1-MeuPrimeiroPrograma.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\bin\Debug\1-MeuPrimeiroPrograma.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\bin\Debug\1-MeuPrimeiroPrograma.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.csproj.AssemblyReference.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.pdb

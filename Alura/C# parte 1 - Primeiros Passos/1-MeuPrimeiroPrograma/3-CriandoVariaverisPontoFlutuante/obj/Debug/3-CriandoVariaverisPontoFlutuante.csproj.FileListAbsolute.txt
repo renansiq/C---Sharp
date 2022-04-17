@@ -1,0 +1,7 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\3-CriandoVariaverisPontoFlutuante\bin\Debug\3-CriandoVariaverisPontoFlutuante.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\3-CriandoVariaverisPontoFlutuante\bin\Debug\3-CriandoVariaverisPontoFlutuante.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\3-CriandoVariaverisPontoFlutuante\bin\Debug\3-CriandoVariaverisPontoFlutuante.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\3-CriandoVariaverisPontoFlutuante\obj\Debug\3-CriandoVariaverisPontoFlutuante.csproj.AssemblyReference.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\3-CriandoVariaverisPontoFlutuante\obj\Debug\3-CriandoVariaverisPontoFlutuante.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\3-CriandoVariaverisPontoFlutuante\obj\Debug\3-CriandoVariaverisPontoFlutuante.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\3-CriandoVariaverisPontoFlutuante\obj\Debug\3-CriandoVariaverisPontoFlutuante.pdb

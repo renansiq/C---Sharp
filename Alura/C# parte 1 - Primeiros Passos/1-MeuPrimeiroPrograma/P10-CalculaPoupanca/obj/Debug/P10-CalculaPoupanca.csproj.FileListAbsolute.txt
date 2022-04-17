@@ -1,0 +1,7 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csproj.AssemblyReference.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.pdb

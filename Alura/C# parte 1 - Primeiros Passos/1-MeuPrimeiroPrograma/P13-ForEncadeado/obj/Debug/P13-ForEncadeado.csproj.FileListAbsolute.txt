@@ -1,0 +1,8 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.AssemblyReference.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.pdb

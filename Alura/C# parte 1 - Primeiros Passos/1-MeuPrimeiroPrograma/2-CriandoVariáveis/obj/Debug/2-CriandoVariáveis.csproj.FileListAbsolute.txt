@@ -1,0 +1,7 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\2-CriandoVariáveis\bin\Debug\2-CriandoVariáveis.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.csproj.AssemblyReference.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\2-CriandoVariáveis\obj\Debug\2-CriandoVariáveis.pdb

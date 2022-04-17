@@ -1,0 +1,6 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\1-MeuPrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb
