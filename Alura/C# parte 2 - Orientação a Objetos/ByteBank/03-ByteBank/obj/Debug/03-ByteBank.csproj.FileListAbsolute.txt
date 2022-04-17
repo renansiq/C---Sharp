@@ -1,0 +1,8 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.AssemblyReference.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb
