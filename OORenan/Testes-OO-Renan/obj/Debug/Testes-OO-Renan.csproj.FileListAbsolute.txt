@@ -1,0 +1,8 @@
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\bin\Debug\Testes-OO-Renan.exe.config
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\bin\Debug\Testes-OO-Renan.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\bin\Debug\Testes-OO-Renan.pdb
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\obj\Debug\Testes-OO-Renan.csproj.AssemblyReference.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\obj\Debug\Testes-OO-Renan.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\obj\Debug\Testes-OO-Renan.csproj.CoreCompileInputs.cache
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\obj\Debug\Testes-OO-Renan.exe
+D:\Meus Projetos VS\Meus Projetos VS2022\OORenan\Testes-OO-Renan\obj\Debug\Testes-OO-Renan.pdb
